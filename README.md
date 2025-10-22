@@ -145,6 +145,12 @@ Events contain the following information:
 - Calendar view
 - Event history tracking
 
+## 👥 Team
+
+- **Muhammad Mubashir** - [@Mubashir-4041](https://github.com/Mubashir-4041) - MERN Stack Developer
+- **Abdur Rahman** - [@abdurrahman310303](https://github.com/abdurrahman310303) - Django, React, DRF Specialist
+- **Wasif Ullah** - [@wasifullah7](https://github.com/wasifullah7) - MERN Stack & Machine Learning
+
 ## License
 
 This is a demo project for showcase purposes.
